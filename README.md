@@ -1,12 +1,4 @@
-<br clear="both">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+I'm+Arsen;Flutter+Developer;Clean+Architecture+%7C+BLoC+%7C+Production+Apps&font=Fira%20Code&center=true&width=650&height=80&duration=4000&pause=1000&color=696969&size=28" />
-</p>
-
-<picture>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/akonurbay/akonurbay/output/github-contribution-grid-snake-dark.svg" />
-</picture>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/arsen-konurbay-0a9a93264/" target="_blank">
