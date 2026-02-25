@@ -5,7 +5,7 @@
 </p>
 
 <picture>
-  <img alt="github-snake" src="https://github.com/akonurbay/akonurbay/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/akonurbay/akonurbay/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 <div align="center">
